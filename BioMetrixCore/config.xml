@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <source>18.220.163.34</source>
+  <db>WingersDTR</db>
+  <uid>sa</uid>
+  <pwd>Serverdrop183</pwd>
+  <source>18.220.163.34</source>
+  <db>WingersCorp</db>
+  <uid>sa</uid>
+  <pwd>Serverdrop183</pwd>
+</config>

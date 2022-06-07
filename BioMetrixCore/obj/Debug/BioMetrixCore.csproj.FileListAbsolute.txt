@@ -1,0 +1,77 @@
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csprojResolveAssemblyReference.cache
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.ResolveComReference.cache
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.Cache
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.pdb
+D:\BioMetrix\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+D:\BioMetrix\BioMatrix\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+D:\BioMetrix\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.ResolveComReference.cache
+D:\BioMetrix\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+D:\BioMetrix\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.pdb
+D:\BioMetrix\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+D:\BioMetrix\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+D:\BioMetrix\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csprojResolveAssemblyReference.cache
+D:\BioMetrix\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+D:\BioMetrix\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+D:\BioMetrix\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+D:\BioMetrix\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.Cache
+C:\Users\Mesh Networks\Desktop\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+C:\Users\Mesh Networks\Desktop\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+C:\Users\Mesh Networks\Desktop\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+C:\Users\Mesh Networks\Desktop\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csprojAssemblyReference.cache
+C:\Users\Mesh Networks\Desktop\BioMatrix\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\Mesh Networks\Desktop\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.ResolveComReference.cache
+C:\Users\Mesh Networks\Desktop\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+C:\Users\Mesh Networks\Desktop\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+C:\Users\Mesh Networks\Desktop\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+C:\Users\Mesh Networks\Desktop\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.cache
+C:\Users\Mesh Networks\Desktop\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+C:\Users\Mesh Networks\Desktop\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.pdb
+C:\Users\Mesh Networks\Desktop\Temp\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+C:\Users\Mesh Networks\Desktop\Temp\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.exe.manifest
+C:\Users\Mesh Networks\Desktop\Temp\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.application
+C:\Users\Mesh Networks\Desktop\Temp\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+C:\Users\Mesh Networks\Desktop\Temp\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+C:\Users\Mesh Networks\Desktop\Temp\BioMatrix\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\Mesh Networks\Desktop\Temp\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.ResolveComReference.cache
+C:\Users\Mesh Networks\Desktop\Temp\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+C:\Users\Mesh Networks\Desktop\Temp\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+C:\Users\Mesh Networks\Desktop\Temp\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+C:\Users\Mesh Networks\Desktop\Temp\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.Schedules.resources
+C:\Users\Mesh Networks\Desktop\Temp\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.cache
+C:\Users\Mesh Networks\Desktop\Temp\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.exe.manifest
+C:\Users\Mesh Networks\Desktop\Temp\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.application
+C:\Users\Mesh Networks\Desktop\Temp\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+C:\Users\Mesh Networks\Desktop\Temp\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.pdb
+C:\Users\Mesh Networks\Desktop\Temp\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csprojAssemblyReference.cache
+C:\Users\Mesh Networks\Desktop\Temp\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.UploadUsers.resources
+C:\Users\cokcok\Desktop\Projects\Temp\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+C:\Users\cokcok\Desktop\Projects\Temp\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.exe.manifest
+C:\Users\cokcok\Desktop\Projects\Temp\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.application
+C:\Users\cokcok\Desktop\Projects\Temp\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+C:\Users\cokcok\Desktop\Projects\Temp\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+C:\Users\cokcok\Desktop\Projects\Temp\BioMatrix\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\cokcok\Desktop\Projects\Temp\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.ResolveComReference.cache
+C:\Users\cokcok\Desktop\Projects\Temp\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+C:\Users\cokcok\Desktop\Projects\Temp\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+C:\Users\cokcok\Desktop\Projects\Temp\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+C:\Users\cokcok\Desktop\Projects\Temp\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.Schedules.resources
+C:\Users\cokcok\Desktop\Projects\Temp\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.UploadUsers.resources
+C:\Users\cokcok\Desktop\Projects\Temp\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.cache
+C:\Users\cokcok\Desktop\Projects\Temp\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CoreCompileInputs.cache
+C:\Users\cokcok\Desktop\Projects\Temp\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.exe.manifest
+C:\Users\cokcok\Desktop\Projects\Temp\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.application
+C:\Users\cokcok\Desktop\Projects\Temp\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+C:\Users\cokcok\Desktop\Projects\Temp\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.pdb
+C:\Users\cokcok\Desktop\Projects\Temp\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.MyWaitForm.resources
+C:\Users\cokcok\Desktop\Projects\Temp\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.SaveUsers.resources
+C:\Users\cokcok\Desktop\Projects\Temp\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.Form1.resources
+C:\Users\cokcok\Desktop\Projects\Temp\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csprojAssemblyReference.cache
+C:\Users\cokcok\Desktop\Projects\Temp\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.Form2.resources
